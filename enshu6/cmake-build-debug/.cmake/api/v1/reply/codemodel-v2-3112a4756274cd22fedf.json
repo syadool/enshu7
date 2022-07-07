@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "enshu6",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "enshu61::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-enshu61-Debug-6c07fd50186eb79bcb2c.json",
+					"name" : "enshu61",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "enshu62::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-enshu62-Debug-f67bfb638e92e813ff76.json",
+					"name" : "enshu62",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "enshu63::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-enshu63-Debug-efd252210f9498f79eb0.json",
+					"name" : "enshu63",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/j-t0417/CLionProjects/enshu6/cmake-build-debug",
+		"source" : "C:/Users/j-t0417/CLionProjects/enshu6"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
