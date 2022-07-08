@@ -4,3 +4,4 @@ project(enshu8)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(enshu81 enshu81.cpp)
+add_executable(enshu82 enshu82.cpp)
